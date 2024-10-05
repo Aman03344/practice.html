@@ -48,12 +48,12 @@
 
     .name h2{
     
-       font-size: 20px;
+       font-size: 18px;
     }
     
     .name h1{
     
-        font-size: 25px;
+        font-size: 20px;
      }
     .bt{
     
@@ -80,10 +80,10 @@
     
     
     .res-section h1{
-        font-size: px;
+        font-size: 25px;
         color: rgb(255, 255, 255);
         font-size: 40PX;
-        text-decoration: underline rgb(107, 13, 13);
+        text-decoration: underline rgb(201, 14, 14);
     }
     
     .list-con{
